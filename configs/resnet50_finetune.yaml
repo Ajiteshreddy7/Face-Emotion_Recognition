@@ -1,0 +1,18 @@
+model:
+  name: resnet50
+  pretrained: true
+  num_classes: 7
+
+train:
+  batch_size: 64
+  image_size: 224
+  epochs: 30
+  lr: 3e-4
+  weight_decay: 1e-4
+  num_workers: 4
+  pin_memory: true
+  freeze_backbone: false
+  unfreeze_top_n: 2
+
+output:
+  output_dir: outputs/resnet50_finetune
