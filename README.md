@@ -14,7 +14,7 @@ This project implements a facial emotion recognition system capable of detecting
 - **Surprise** 😮
 
 ## Demo
-![Emotion Recognition Demo](utils/Untitled video - Made with Clipchamp (1).mp4)
+![Emotion Recognition Demo](utils/Demo.gif)
 
 ## 🏗️ System Architecture
 
