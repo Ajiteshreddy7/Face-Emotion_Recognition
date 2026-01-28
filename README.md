@@ -14,7 +14,7 @@ This project implements a facial emotion recognition system capable of detecting
 - **Surprise** 😮
 
 ## Demo
-![Emotion Recognition Demo](utils/Demo.gif)
+![Emotion Recognition Demo](https://raw.githubusercontent.com/YOUR_USERNAME/Face-Emotion_Recognition/main/utils/Demo.gif)
 
 ## 🏗️ System Architecture
 
